@@ -23,6 +23,8 @@ creator:
 description: The InteLex Past Masters Women Writers database The Letters of Jane Austen
   is a complete electronic edition of Jane Austen's letters, edited by Deirdre le
   Faye and published by Oxford University Press.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42078#The-Letters-of-Jane-Austen--13-Selected-from-the-compilation-of-her-great-nephew-Edward-Lord-_
 gutenberg_issued: '2013-02-12'
 gutenberg_type: Text
 identifiers:
